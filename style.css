@@ -1,3 +1,27 @@
 body{
     background-color: aquamarine;
+    margin: 20px;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+   
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: darkkhaki;
+}
+.container{
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    width: 30%;
+    display: inline-block;
 }
